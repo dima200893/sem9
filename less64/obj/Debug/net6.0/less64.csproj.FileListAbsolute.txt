@@ -1,0 +1,15 @@
+C:\git\sem9\less64\bin\Debug\net6.0\less64.exe
+C:\git\sem9\less64\bin\Debug\net6.0\less64.deps.json
+C:\git\sem9\less64\bin\Debug\net6.0\less64.runtimeconfig.json
+C:\git\sem9\less64\bin\Debug\net6.0\less64.dll
+C:\git\sem9\less64\bin\Debug\net6.0\less64.pdb
+C:\git\sem9\less64\obj\Debug\net6.0\less64.csproj.AssemblyReference.cache
+C:\git\sem9\less64\obj\Debug\net6.0\less64.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\sem9\less64\obj\Debug\net6.0\less64.AssemblyInfoInputs.cache
+C:\git\sem9\less64\obj\Debug\net6.0\less64.AssemblyInfo.cs
+C:\git\sem9\less64\obj\Debug\net6.0\less64.csproj.CoreCompileInputs.cache
+C:\git\sem9\less64\obj\Debug\net6.0\less64.dll
+C:\git\sem9\less64\obj\Debug\net6.0\refint\less64.dll
+C:\git\sem9\less64\obj\Debug\net6.0\less64.pdb
+C:\git\sem9\less64\obj\Debug\net6.0\less64.genruntimeconfig.cache
+C:\git\sem9\less64\obj\Debug\net6.0\ref\less64.dll
